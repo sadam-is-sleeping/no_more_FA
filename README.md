@@ -5,7 +5,7 @@
 ## Plans
 - Windows, Python
 - eclass.sogang.ac.kr 에서 Selenium으로 정보 가져오기
-- [Zoom의 URL Scheme(Deprecated)](https://marketplace.zoom.us/docs/client-url-schemes)을 사용
+- [Zoom의 URL Scheme(Deprecated)](https://marketplace.zoom.us/docs/client-url-schemes), [.](https://superuser.com/questions/1563255/start-a-zoom-meeting-from-the-command-line)을 사용
 
 ***Python:***
 - [keyboard](https://pypi.org/project/keyboard) to type password
